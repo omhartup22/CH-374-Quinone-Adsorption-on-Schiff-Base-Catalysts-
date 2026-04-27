@@ -142,4 +142,3 @@ This project demonstrates how density functional theory can be used to study str
 
 ---
 
-If you would like, I can also turn this into a more visually polished README with badges, a short abstract, and a “How to cite this project” section.
